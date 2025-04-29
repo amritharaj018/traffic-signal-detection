@@ -11,11 +11,17 @@ What It Does
 •	Displays the first 10 converted images from each folder for quick visual check.
 Folder Structure
 •	Input folders (with .ppm images):
-o	/Images/00001
 o	/Images/00000
+o	/Images/00001
+o /Images/00002
+o /Images/00003
+o /Images/00004
 •	Output folders (where .jpg images are saved):
 o	/Traffic_JPG_images/1
 o	/Traffic_JPG_images/2
+o	/Traffic_JPG_images/3
+o	/Traffic_JPG_images/4
+o	/Traffic_JPG_images/5
 Requirements
 •	Python 3.x
 •	Libraries: Pillow, matplotlib (for image processing and display)
